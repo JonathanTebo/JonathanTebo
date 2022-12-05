@@ -115,7 +115,7 @@ def pure_sample_Cv(calculated_data, M, m, config, import_directory,
 
 def program_setup():
     """Allows user to set program settings to calculate different
-    experimental configurations."""
+    experimental configurations"""
 
     print("\nPlease place all addenda w/ sample temperature response data "
           "in the 'Addenda + Sample' folder\nand all blank addenda "
